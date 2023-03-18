@@ -1,4 +1,3 @@
-# Bookmark (STAR) My Project if it's useful.
 # Weather
 <p align="center">
   <img src="./Screenshot/Login.PNG" />
@@ -31,7 +30,3 @@ Then connect the database from Visual Studio to the Server.
 ### API
 The API key is usuable. However, if is case it is not active, make one of your own from host and replace it.
 
-
-
-# Developed by
-MOHAMMED REZAAN RIYAZ
